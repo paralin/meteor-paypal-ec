@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "AwsSum (Amazon Web Services API lib) repackaged for Meteor"
+  summary: "PayPal express checkout packaged for Meteor."
 });
 
 Package.on_use(function (api) {

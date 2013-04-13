@@ -3,7 +3,7 @@
   "description": "PayPal express checkout packaged for Meteor.",
   "homepage": "https://github.com/dreamerslab/paypal-ec",
   "author": "Christian Stewart <kidovate@gmail.com>",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "git": "https://github.com/kidovate/meteor-paypal-ec.git",
   "packages": {}
 }
