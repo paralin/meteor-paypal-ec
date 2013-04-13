@@ -1,1 +1,1 @@
-PayPalEC = Npm.require("paypal-ec");
+paynode = Npm.require("paynode");

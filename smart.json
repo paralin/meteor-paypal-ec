@@ -1,9 +1,9 @@
 {
-  "name": "paypal-ec",
-  "description": "PayPal express checkout packaged for Meteor.",
-  "homepage": "https://github.com/dreamerslab/paypal-ec",
+  "name": "paynode",
+  "description": "PayNode - a library for interfacing with various online payment services.",
+  "homepage": "https://npmjs.org/package/paynode",
   "author": "Christian Stewart <kidovate@gmail.com>",
-  "version": "0.2.3",
-  "git": "https://github.com/kidovate/meteor-paypal-ec.git",
+  "version": "0.3.6",
+  "git": "https://github.com/kidovate/meteor-paynode.git",
   "packages": {}
 }
