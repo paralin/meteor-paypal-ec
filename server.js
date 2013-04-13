@@ -1,1 +1,1 @@
-@PayPalEC = Npm.require("paypal-ec");
+PayPalEC = Npm.require("paypal-ec");
